@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#card {
+    /*border: 5px dotted red;*/
+    text-align: center;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+}
